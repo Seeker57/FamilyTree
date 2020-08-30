@@ -1,0 +1,16 @@
+
+1) Andrew     Belyaev   M 15.07.2000 Oryol
+2) Julia      Lisitsina   F 20.06.2002 Oryol
+3) Sergey     Belyaev   M 30.05.1967 Oryol
+4) Olga       Belyaeva  F 20.08.1974 Pokrovskoe
+5) Mikhail    Belyaev   M 16.11.2005 Oryol
+6) Svetlana   Belyaeva  F 11.04.1947 Oryol
+7) Nina       Filatova  F 02.06.1952 Pokrovskoe
+8) Vladimir   Filatov   M 25.06.1944 Pokrovskoe
+9) Vyacheslav Belyaev   M 13.03.1946 Oryol
+10) Tatyana    Belyaeva  F 02.08.1970 Oryol
+11) Mariya     Filatova  F 02.01.1927 Zmievka
+12) Dmitriy    Filatov   M 24.09.1922 Zmievka
+13) Sergey     Filatov   M 19.01.1969 Pokrovskoe
+14) Julia      Filatova  F 21.02.1975 Oryol
+15) Ilya       Filatov   M 19.12.1997 Oryol
